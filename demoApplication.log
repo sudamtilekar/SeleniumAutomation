@@ -1,0 +1,159 @@
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Home Page Title: Actual Guru99 Bank Manager HomePage Expected Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - Random Number Values are: 56508418
+[main] INFO  ebanking  - Random Number Values are: 488323
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - Customer Page Title: - Actual Guru99 Bank New Customer Entry Page, Expected : Guru99 Bank New Customer Entry Page
+[main] INFO  ebanking  - Hash Map Values for New Customer Create are - {DateOfBirthMonth=05, Address=G 704 Kanchanpuram Wagholi, Gender=F, City=Pune, DateOfBirthYear=2018, DateOfBirthDay=06, Mobile Number=84, PIN=412207, E-mail=sudam_, HeaderName=InPutData, State=Maharashtra, Customer Name=Sudam, Password=Welcome123}
+[main] INFO  ebanking  - Random Number Values are: 30504418
+[main] INFO  ebanking  - Random Number Values are: 785406
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - Asserted = Customer Page Title: - Actual Guru99 Bank New Customer Entry Page, Expected : Guru99 Bank New Customer Entry Page
+[main] INFO  ebanking  - Hash Map Values for New Customer Create are - {DateOfBirthMonth=05, Address=G 704 Kanchanpuram Wagholi, Gender=F, City=Pune, DateOfBirthYear=2018, DateOfBirthDay=06, Mobile Number=84, PIN=412207, E-mail=sudam_, HeaderName=InPutData, State=Maharashtra, Customer Name=Sudam, Password=Welcome123}
+[main] INFO  ebanking  - Random Number Values are: 40760853
+[main] INFO  ebanking  - Random Number Values are: 867845
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - Asserted = Customer Page Title: - Actual Guru99 Bank New Customer Entry Page, Expected : Guru99 Bank New Customer Entry Page
+[main] INFO  ebanking  - Hash Map Values for New Customer Create are - {DateOfBirthMonth=05, Address=G 704 Kanchanpuram Wagholi, Gender=F, City=Pune, DateOfBirthYear=2018, DateOfBirthDay=06, Mobile Number=84, PIN=412207, E-mail=sudam_, HeaderName=InPutData, State=Maharashtra, Customer Name=Sudam, Password=Welcome123}
+[main] INFO  ebanking  - Random Number Values are: 03344181
+[main] INFO  ebanking  - Random Number Values are: 801183
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - Asserted = Customer Page Title: - Actual Guru99 Bank New Customer Entry Page, Expected : Guru99 Bank New Customer Entry Page
+[main] INFO  ebanking  - Hash Map Values for New Customer Create are - {DateOfBirthMonth=05, Address=G 704 Kanchanpuram Wagholi, Gender=F, City=Pune, DateOfBirthYear=2018, DateOfBirthDay=06, Mobile Number=84, PIN=412207, E-mail=sudam_, HeaderName=InPutData, State=Maharashtra, Customer Name=Sudam, Password=Welcome123}
+[main] INFO  ebanking  - Random Number Values are: 37752213
+[main] INFO  ebanking  - Random Number Values are: 128200
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - Asserted = Customer Page Title: - Actual Guru99 Bank New Customer Entry Page, Expected : Guru99 Bank New Customer Entry Page
+[main] INFO  ebanking  - Hash Map Values for New Customer Create are - {DateOfBirthMonth=05, Address=G 704 Kanchanpuram Wagholi, Gender=F, City=Pune, DateOfBirthYear=2018, DateOfBirthDay=06, Mobile Number=84, PIN=412207, E-mail=sudam_, HeaderName=InPutData, State=Maharashtra, Customer Name=Sudam, Password=Welcome123}
+[main] INFO  ebanking  - Random Number Values are: 28531662
+[main] INFO  ebanking  - Random Number Values are: 664671
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - Asserted = Customer Page Title: - Actual Guru99 Bank New Customer Entry Page, Expected : Guru99 Bank New Customer Entry Page
+[main] INFO  ebanking  - Hash Map Values for New Customer Create are - {DateOfBirthMonth=05, Address=G 704 Kanchanpuram Wagholi, Gender=F, City=Pune, DateOfBirthYear=2018, DateOfBirthDay=06, Mobile Number=84, PIN=412207, E-mail=sudam_, HeaderName=InPutData, State=Maharashtra, Customer Name=Sudam, Password=Welcome123}
+[main] INFO  ebanking  - Random Number Values are: 21700700
+[main] INFO  ebanking  - Random Number Values are: 777804
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Login Successfully
+[main] INFO  ebanking  - Asserted = Home Page Title: Actual -Guru99 Bank Manager HomePage, Expected -Guru99 Bank Manager HomePage
+[main] INFO  ebanking  - Validated Home Page
+[main] INFO  ebanking  - Navigated to New Customer Page
+[main] INFO  ebanking  - Asserted = Customer Page Title: - Actual Guru99 Bank New Customer Entry Page, Expected : Guru99 Bank New Customer Entry Page
+[main] INFO  ebanking  - Hash Map Values for New Customer Create are - {DateOfBirthMonth=05, Address=G 704 Kanchanpuram Wagholi, Gender=F, City=Pune, DateOfBirthYear=2018, DateOfBirthDay=06, Mobile Number=84, PIN=412207, E-mail=sudam_, HeaderName=InPutData, State=Maharashtra, Customer Name=Sudam, Password=Welcome123}
+[main] INFO  ebanking  - Random Number Values are: 54171461
+[main] INFO  ebanking  - Random Number Values are: 655537
+[main] INFO  ebanking  - New Customer Created using Excel data
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Top30Sensex Page loaded Successfully
+[main] INFO  ebanking  - Top30Sensex Page Title is : Sensex Today | Live Updates: Sensex share price - 37327.80 INR, up by 16.27 | The Economic Times
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Top 30 Sensex Page loaded Successfully
+[main] INFO  ebanking  - Top 30 Sensex Page Title is : Sensex Today | Live Updates: Sensex share price - 37341.38 INR, up by 29.85 | The Economic Times
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Top 30 Sensex Page loaded Successfully
+[main] INFO  ebanking  - Top 30 Sensex Page Title is : Sensex Today | Live Updates: Sensex share price - 37400.05 INR, up by 88.52 | The Economic Times
+[main] INFO  ebanking  - Current Value of Company 'bajaj-finance-ltd' is - 53.75
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Top 30 Sensex Page loaded Successfully
+[main] INFO  ebanking  - Top 30 Sensex Page Title is : Sensex Today | Live Updates: Sensex share price - 37364.07 INR, up by 52.54 | The Economic Times
+[main] INFO  ebanking  - Current Value of Company 'bajaj-finance-ltd' is - 48.10
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Top 30 Sensex Page loaded Successfully
+[main] INFO  ebanking  - Top 30 Sensex Page Title is : Sensex Today | Live Updates: Sensex share price - INR, up by | The Economic Times
+[main] INFO  ebanking  - Current Value of Company 'bajaj-finance-ltd' is - 48.90
+[main] INFO  ebanking  - Browser Maximized
+[main] INFO  ebanking  - Top 30 Sensex Page loaded Successfully
+[main] INFO  ebanking  - Top 30 Sensex Page Title is : Sensex Today | Live Updates: Sensex share price - 37350.33 INR, up by 38.80 | The Economic Times
+[main] INFO  ebanking  - Current Value of Company 'bajaj-finance-ltd' is - 48.90

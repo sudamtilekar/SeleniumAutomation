@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ebanking">
+    <test name="Banking App Test">
+        <parameter name="browser" value="firefox"></parameter>
+        <classes>
+            <class name="com.learn.app.guru99.Login.LoginGuru99PageTest"></class>
+            <class name="com.learn.app.Customer.AddCustomerTest"></class>
+        </classes>
+    </test>
+</suite>
