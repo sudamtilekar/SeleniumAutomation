@@ -33,7 +33,7 @@ public class Top30SensexListPage extends TestBaseClass {
 
     public void setListOfCompaniesBeforeCompanyName() {
         int count = driver.findElements(By.xpath("//div[@class='flag iBlock spriteMkt']/following-sibling::p/a")).size();
-        if(count)
+
     }
 
     public Top30SensexListPage() {
