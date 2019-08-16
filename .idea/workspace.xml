@@ -21,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/app/Sensex/Pages/Top30SensexListPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="24" column="60" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="60" />
+            <state relative-caret-position="145">
+              <caret line="20" column="78" lean-forward="true" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1059#1060#0" expanded="true" />
@@ -64,6 +64,9 @@
       <find>https://economictimes.indiatimes.com/indices/sensex_30_companies</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -102,6 +105,7 @@
     <option name="width" value="1382" />
     <option name="height" value="784" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -218,6 +222,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
@@ -349,7 +354,7 @@
       <workItem from="1565586952133" duration="11834000" />
       <workItem from="1565667398154" duration="14994000" />
       <workItem from="1565753293515" duration="8378000" />
-      <workItem from="1565868534578" duration="11986000" />
+      <workItem from="1565868534578" duration="12550000" />
     </task>
     <servers />
   </component>
@@ -386,7 +391,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70196000" />
+    <option name="totallyTimeSpent" value="70760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -660,8 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/learn/app/Sensex/Pages/Top30SensexListPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="24" column="60" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="60" />
+        <state relative-caret-position="145">
+          <caret line="20" column="78" lean-forward="true" selection-start-line="20" selection-start-column="78" selection-end-line="20" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1059#1060#0" expanded="true" />
